@@ -1,16 +1,16 @@
-# task_separator
+# Task Separator - separate your tasks in the easiest way!
 
-A new Flutter project.
+This project is basically for my use. I want to create a flutter productivity app which will work very simple - You press the button to start the timer, then it will show your current task, next tasks and time left. It will contain things like authentication, forms etc. Feel free to view my code!
 
-## Getting Started
+Currently there's no link to the app.
 
-This project is a starting point for a Flutter application.
+## What kind of technologies did I use?
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter
+- Dart
+- Firebase
+- Cloud Firestore
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Check out my website!
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+http://bartzalewski.com
